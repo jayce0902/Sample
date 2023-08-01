@@ -1,0 +1,8 @@
+---
+title: "Sample"
+author: "Jayce Jocson"
+date: "2023-08-01"
+output: html_document
+---
+
+This is a sample r markdown.
